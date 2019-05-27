@@ -1,6 +1,6 @@
 {
-    "name": "openeuropa/rdf_skos",
-    "description": "Drupal module that contains the RDF SKOS entity types.",
+    "name": "davidjguru/rdf_skos",
+    "description": "Testing with RDF versions problem",
     "type": "drupal-module",
     "license": "EUPL-1.2",
     "minimum-stability": "dev",
